@@ -1,0 +1,110 @@
+body{background: linear-gradient(to bottom right, #00260d, #7b007e, #a48aed);color: #e5e5d2;font-family: 'Mukta', sans-serif;}
+h1,h2{text-align: center;justify-content: center;}tq{color:#e55fe2 ;}y{color: #ef006c;}
+ #signupName,
+        #signupEmail,
+        #signupPassword,
+        #signupNameCs,
+        #signupEmailCs,
+        #signupPasswordCs,
+        #loginEmailAc,
+        #loginPasswordAc,
+        #emailForPass,
+        #emailForPassCs,
+        #loginPasswordRe,
+        #loginPasswordReCs,
+        #loginEmailRe,
+        #loginEmailReCs,
+        #loginNameRe,
+        #loginNameReCs,
+        #tta,
+        #ttb,
+        #tfa,
+        #tfc,
+        #tfd,
+        #tfe,
+        #loginEmailCs,
+        #loginPasswordCs,
+        #dnameCfit,
+        #dnameCst,
+        #ccn4,
+        #devoption5,
+        #devoption6,
+        #ccm7,
+        #welinpu,
+        #w25,
+        #w34,
+        #w35,
+        #htd,
+          #BR_IMG_URL_1,
+        #BR_DESTI_URL_1,
+        #BR_1_TEXT_1{
+            color: white;
+            border: 2px solid #b900ff;
+            width: 91%;
+            border-radius: 3px;
+            text-align: center;
+        }  
+.modal-content{background:linear-gradient(to bottom left, #0b3b13, #782e8f, #836278);
+            border: 3px solid #e355ff;
+            border-radius: 6px;
+            color: #d2d2e5}
+#cscreatewindow{
+    background: linear-gradient(to bottom right, #00260d, #7b007e, #a48aed);;color: #d2d2e5;
+}
+.welcoimg,.welcoimgCs{
+    border: 4px solid #8d25db;
+    border-radius: 66%;
+}
+.modal-trigger{
+    color: whitesmoke;
+}
+ #ind_pre_do{
+    position: absolute;
+    top: 91%;
+    margin: 0;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+} #lpage,.lpagem{    
+justify-content: center;
+text-align: center;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, #00260d, #7b007e, #a48aed);
+    color: #d2d2e5;
+    background: ;
+    top: 0;
+    right: 0;
+    position:fixed ;
+    display:flex ;
+}
+#lpage_t    {
+     position: absolute;
+    top: 50%;
+    margin: auto;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+}
+.lpagem.hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 1;
+        visibility: hidden;
+    }
+}
+.collection-item2{
+    background: #082408);
+    height: auto;
+    margin: 2px;
+    padding: 8px;
+}
+#m1{position: fixed;top: 0;background:linear-gradient(to top left, #408cff, #6a77a1);
+color: #f9efd0;left: 0%;width: 100%;}#m2{text-align: center;font-size: 36px;}#w29{position:absolute ;right:1%; color:#95ffe0;}#m3,#m4,#closefwelcoFromNav,#closefwelcoFromBoot,#closecscrFromMain,#closecscrFromSuclog{position: absolute;left: 1%;}#accsNav{background:linear-gradient(to top left, #71ebb2, #ba55ff);
+color: #f9efd0;position: absolute;height:1500px;width:100%;margin:0;}.accsNavCon{margin:4px;}

@@ -1,0 +1,158 @@
+ body{font-family: 'Mukta', sans-serif;}
+h1,h2{text-align: center;justify-content: center;}tq{color: ;}y{color: ;}
+ #signupName,
+        #signupEmail,
+        #signupPassword,
+        #signupNameCs,
+        #signupEmailCs,
+        #signupPasswordCs,
+        #loginEmailAc,
+        #loginPasswordAc,
+        #emailForPass,
+        #emailForPassCs,
+        #loginPasswordRe,
+        #loginPasswordReCs,
+        #loginEmailRe,
+        #loginEmailReCs,
+        #loginNameRe,
+        #loginNameReCs,
+        #tta,
+        #ttb,
+        #tfa,
+        #tfc,
+        #tfd,
+        #tfe,
+        #loginEmailCs,
+        #loginPasswordCs,
+        #dnameCfit,
+        #dnameCst {
+            color: ;
+            border: 2px solid ;
+            width: 91%;
+            border-radius: 3px;
+            text-align: center;
+        }  
+.modal-content{background:linear-gradient(to bottom left, );
+            border: 3px solid ;
+            border-radius: 6px;
+            color: ;}
+#cscreatewindow{
+    background: linear-gradient(to bottom right, );color: ;
+}
+.welcoimg,.welcoimgCs{
+    
+    border-radius: 66%;
+}
+.modal-trigger{
+    color: whitesmoke;
+} 
+ #ind_pre_do{
+    position: absolute;
+    top: 91%;
+    margin: 0;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+} #lpage,.lpagem{    
+justify-content: center;
+text-align: center;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(to bottom right, );   
+    color: ;
+    background: ;
+    top: 0;
+    right: 0;
+    position:fixed ;
+    display:flex ;
+}
+#lpage_t    {
+     position: absolute;
+    top: 50%;
+    margin: auto;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+}
+.lpagem.hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 1;
+        visibility: hidden;
+    }
+} 
+/* background: linear-gradient(to top right, #280729, #0a1f11); */
+.btn {
+    border:5px solid #e50009;
+}
+.theme-switches {
+  display: inline;
+  justify-content: center;
+}
+ 
+.Themeswitch {
+  border: 2px solid black;
+  border-radius: 50px;
+  height: auto;
+  width: auto;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.Themeswitch:hover {
+  transform: scale(1.2);
+  transition: 0.3s ease-in-out;
+}
+
+#switch-1 {
+  background: linear-gradient(to bottom right, #8f00ff,#e300ff, #55ff82);color: whitesmoke;
+}
+
+#switch-2 {
+  background: linear-gradient(to bottom right, #050044, #5b535b, #000000);color: whitesmoke;
+} 
+#switch-3 {
+  background:linear-gradient(to bottom right, #80ff83, #538ba6);   
+    color: #030512;
+} #switch-4 {
+  background: linear-gradient(to bottom right, #eaeaff, #ffffea);color: #2b2b27;  
+    color: black;
+} 
+#ind_pre_do{
+    position: absolute;
+    top: 91%;
+    margin: 0;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+} #lpage,.lpagem{    
+justify-content: center;
+text-align: center;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(to bottom right,#eaffff,#e9e9fe,#fee9e9);   
+    color: #131515;
+    
+    top: 0;
+    right: 0;
+    position:fixed ;
+    display:flex ;
+}
+#lpage_t    {
+     position: absolute;
+    top: 50%;
+    margin: auto;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+    position: ;
+}
+#m1{position: fixed;top: 0;left: 0%;width: 100%;}#m2{text-align: center;font-size: 36px;}#w29{position:absolute ;right:1%}#m3,#m4,#closefwelcoFromNav,#closefwelcoFromBoot,#closecscrFromMain,#closecscrFromSuclog,#snas1{position: absolute;left: 1%;}#accsNav{position: absolute;height:1500px;width:100%;margin:0;}.accsNavCon{margin:4px;}

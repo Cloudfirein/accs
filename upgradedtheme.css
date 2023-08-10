@@ -1,0 +1,100 @@
+ body {
+    background: linear-gradient(to bottom right, #ffdc55, #e32bff, #ff809f, #4740ff);color: whitesmoke; font-family: 'Mukta', sans-serif;
+}
+.modal-content{background:linear-gradient(to bottom left, #7d2f8c,#fe9d00, #ff4900, #400fb3, #fe7f9e, #68b3ac);
+            border: 3px solid #ae00b3, #b30007;
+            border-radius: 6px;
+            color: #d2d2e5;
+            }.modal-trigger{
+    color: whitesmoke;}.welcoimg,.welcoimgCs{
+    border: 4px solid #fee9bf;
+    border-radius: 66%;
+}h1,h2{text-align: center;justify-content: center;}tq{color:#ffd5f4;}y{color: #910089;}
+ #signupName,
+        #signupEmail,
+        #signupPassword,
+        #signupNameCs,
+        #signupEmailCs,
+        #signupPasswordCs,
+        #loginEmailAc,
+        #loginPasswordAc,
+        #emailForPass,
+        #emailForPassCs,
+        #loginPasswordRe,
+        #loginPasswordReCs,
+        #loginEmailRe,
+        #loginEmailReCs,
+        #loginNameRe,
+        #loginNameReCs,
+        #tta,
+        #ttb,
+        #tfa,
+        #tfc,
+        #tfd,
+        #tfe,
+        #loginEmailCs,
+        #loginPasswordCs,
+        #dnameCfit,
+        #dnameCst,
+        #ccn4,
+        #devoption5,
+        #devoption6,
+        #ccm7,
+        #welinpu,
+        #w25{
+            color: white;
+            border: 2px solid #dddddd;
+            width: 91%;
+            border-radius: 3px;
+            text-align: center;}
+      #cscreatewindow{
+      background:linear-gradient(to bottom right, #ffbd6a, #fe009d, #fe4900 ,#55ff6d);  }
+         #lpage,.lpagem{    
+justify-content: center;
+text-align: center;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(to bottom right, #c440ff,#ffdd80);   
+    color: #d2d2e5;
+    background: ;
+    top: 0;
+    right: 0;
+    position:fixed ;
+    display:flex ;
+}
+#lpage_t    {
+     position: absolute;
+    top: 50%;
+    margin: auto;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+}
+.lpagem.hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 1;
+        visibility: hidden;
+    }
+}
+ #ind_pre_do{
+    position: absolute;
+    top: 91%;
+    margin: 0;
+    font-style:bold;
+    justify-content: center;
+    text-align: center;
+    right: ;
+}
+.collection-item2{
+    background: #ff5574 );
+    height: auto;
+    margin: 2px;
+    padding: 8px;
+    border: 2px double #ff2bf1;
+}
